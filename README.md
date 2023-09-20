@@ -99,4 +99,4 @@ Before you begin, ensure you have the following installed:
 - React
 - Stripe
 - Strapi
-- Your contributors
+
